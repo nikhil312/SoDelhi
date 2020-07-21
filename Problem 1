@@ -15,7 +15,7 @@ Example Input: const steps = [D,D,U,U,U,U,D,D]
 
 
 Answer:
-  \\Here is the required function 
+  \\Here is the required function in Java 
   
 public class Solution {
 
