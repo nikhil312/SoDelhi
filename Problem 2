@@ -20,7 +20,7 @@ Answer:
 
 public class GFG { 
 	
-	public static int difference(int arr[][], int n) 
+	public static int diagonalDifference(int arr[][], int n) 
 	{ 
 		// Initialize sums of diagonals 
 		int d1 = 0, d2 = 0; 
